@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/havelock_blue</color>
+    <color name="colorPrimaryDark">@color/steel_blue</color>
+    <color name="colorAccent">@color/white</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="blue_chalk">#ECD7FF</color>
+    <color name="havelock_blue">#4A90E2</color>
+    <color name="steel_blue">#3b73b4</color>
+    <color name="saphire">#303F9F</color>
+    <color name="cloud_burst">#213449</color>
+    <color name="oxford_blue">#32404f</color>
+    <color name="oxford_blue_dark">#2c3946</color>
+    <color name="alpha_black_50">#80000000</color>
+    <color name="alpha_white_12">#1effffff</color>
+
+</resources>
